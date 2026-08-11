@@ -3,7 +3,7 @@
 ## Description
 This repository contains the full codebase, notebooks, and scripts used in the thesis: _"Evaluating the Efficacy of Several Machine Learning Algorithms on Enhancers Annotation"_ by Roxana-Andreea Bosnea (2023). 
 
-The project explores the application of classical machine learning models and modern depe learning architecutres to classify genomic sequences as enhancer or non-enhancer regions. Experiments were performed on datasets of varying sizes and complexities, including whole-genome scale evaluation.
+The project explores the application of classical machine learning models and modern deep learning architectures to classify genomic sequences as enhancer or non-enhancer regions. Experiments were performed on datasets of varying sizes and complexities, including whole-genome scale evaluation.
 
 ## Project Overview
 Enhancers are key regulatory DNA elements responsible for controlling gene transcription. Identifying them computationally is challenging due to:
